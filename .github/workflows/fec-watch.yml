@@ -1,0 +1,34 @@
+name: FEC Watch
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes
+  workflow_dispatch: {}      # lets you click "Run workflow" manually to test
+
+permissions:
+  contents: write
+
+jobs:
+  check-fec:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run FEC watcher
+        env:
+          FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
+        run: python run_watch.py --fec-only
+
+      - name: Save results back to the repo
+        run: |
+          git config user.name "campaign-watch-bot"
+          git config user.email "actions@github.com"
+          git add state/
+          git diff --cached --quiet || git commit -m "FEC update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
