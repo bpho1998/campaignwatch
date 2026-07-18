@@ -1,0 +1,32 @@
+name: CalAccess Watch
+
+on:
+  schedule:
+    - cron: "0 7 * * *"      # once a day, 7am UTC
+  workflow_dispatch: {}      # lets you click "Run workflow" manually to test
+
+permissions:
+  contents: write
+
+jobs:
+  check-calaccess:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Run CalAccess watcher
+        run: python run_watch.py --calaccess-only
+
+      - name: Save results back to the repo
+        run: |
+          git config user.name "campaign-watch-bot"
+          git config user.email "actions@github.com"
+          git add state/
+          git diff --cached --quiet || git commit -m "CalAccess update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
