@@ -124,6 +124,7 @@ def run(seen: set) -> list:
     items = []
     items += check_contributions(seen, zip_path)
     items += check_committee_filings(seen, zip_path)
+    os.remove(zip_path)
     return items
 
 
