@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 09:44:13 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 7/31/2024 12:00:00 AM (filing 2933019).</description>
-      <guid isPermaLink="false">ca-filing-2933019</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 1/30/2024 12:00:00 AM (filing 2877468).</description>
-      <guid isPermaLink="false">ca-filing-2877468</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 2/22/2024 12:00:00 AM (filing 2893595).</description>
-      <guid isPermaLink="false">ca-filing-2893595</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 1/24/2024 12:00:00 AM (filing 2872548).</description>
-      <guid isPermaLink="false">ca-filing-2872548</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 12:19:04 +0000</lastBuildDate>
     <item>
       <title>CalAccess: Govern for California filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
@@ -2107,6 +2079,34 @@
       <description>CALIFORNIA BACK TO BASICS SUPPORTING MATT MAHAN FOR GOVERNOR 2026 filed form F496 on 4/29/2026 12:00:00 AM (filing 3144232).</description>
       <guid isPermaLink="false">ca-filing-3144232</guid>
       <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $3000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $3000 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3169217).</description>
+      <guid isPermaLink="false">ca-rcpt-3169217-19</guid>
+      <pubDate>Tue, 21 Jul 2026 12:18:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3169387).</description>
+      <guid isPermaLink="false">ca-rcpt-3169387-8</guid>
+      <pubDate>Tue, 21 Jul 2026 12:18:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3169387).</description>
+      <guid isPermaLink="false">ca-rcpt-3169387-9</guid>
+      <pubDate>Tue, 21 Jul 2026 12:18:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3169193).</description>
+      <guid isPermaLink="false">ca-rcpt-3169193-15</guid>
+      <pubDate>Tue, 21 Jul 2026 12:18:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
