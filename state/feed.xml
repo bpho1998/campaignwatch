@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:13:23 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 12/15/2023 12:00:00 AM (filing 2860756).</description>
-      <guid isPermaLink="false">ca-filing-2860756</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 3/22/2024 12:00:00 AM (filing 2903499).</description>
-      <guid isPermaLink="false">ca-filing-2903499</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 6/21/2024 12:00:00 AM (filing 2919364).</description>
-      <guid isPermaLink="false">ca-filing-2919364</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 Jul 2026 12:13:48 +0000</lastBuildDate>
     <item>
       <title>CalAccess: Govern for California filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
@@ -2107,6 +2086,27 @@
       <description>Hastings, Reed gave $3000 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3170370).</description>
       <guid isPermaLink="false">ca-rcpt-3170370-29</guid>
       <pubDate>Thu, 23 Jul 2026 12:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3171021).</description>
+      <guid isPermaLink="false">ca-rcpt-3171021-25</guid>
+      <pubDate>Fri, 24 Jul 2026 12:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3171096).</description>
+      <guid isPermaLink="false">ca-rcpt-3171096-41</guid>
+      <pubDate>Fri, 24 Jul 2026 12:13:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3171096).</description>
+      <guid isPermaLink="false">ca-rcpt-3171096-42</guid>
+      <pubDate>Fri, 24 Jul 2026 12:13:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
