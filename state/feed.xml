@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:21:35 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 2/23/2024 12:00:00 AM (filing 2895599).</description>
-      <guid isPermaLink="false">ca-filing-2895599</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 29 Jul 2026 09:43:31 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
@@ -2107,6 +2100,13 @@
       <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3172847).</description>
       <guid isPermaLink="false">ca-rcpt-3172847-24</guid>
       <pubDate>Tue, 28 Jul 2026 09:42:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $250 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Schmidt, Frederick gave $250 to unknown recipient on 6/17/2026 12:00:00 AM (filing 3173492).</description>
+      <guid isPermaLink="false">ca-rcpt-3173492-577</guid>
+      <pubDate>Wed, 29 Jul 2026 09:43:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
