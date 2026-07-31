@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 09:33:42 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 1/30/2024 12:00:00 AM (filing 2879450).</description>
-      <guid isPermaLink="false">ca-filing-2879450</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 31 Jul 2026 09:50:27 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2100,13 @@
       <description>Schmidt, Frederick gave $250 to unknown recipient on 6/17/2026 12:00:00 AM (filing 3173492).</description>
       <guid isPermaLink="false">ca-rcpt-3173492-577</guid>
       <pubDate>Wed, 29 Jul 2026 09:43:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/11/2026 12:00:00 AM (filing 3175629).</description>
+      <guid isPermaLink="false">ca-rcpt-3175629-38</guid>
+      <pubDate>Fri, 31 Jul 2026 09:50:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
