@@ -7,742 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 08:41:35 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 7/19/2024 12:00:00 AM (filing 2932156).</description>
-      <guid isPermaLink="false">ca-filing-2932156</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1383984</link>
-      <description>GOVERN FOR CALIFORNIA NETWORK COMMITTEE filed form F460 on 1/15/2024 12:00:00 AM (filing 2875327).</description>
-      <guid isPermaLink="false">ca-filing-2875327</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 2/27/2024 12:00:00 AM (filing 2897636).</description>
-      <guid isPermaLink="false">ca-filing-2897636</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1464796</link>
-      <description>GOVERN FOR CALIFORNIA'S COMMITTEE TO PROTECT THE GENERAL FUND filed form F460 on 1/22/2024 12:00:00 AM (filing 2882795).</description>
-      <guid isPermaLink="false">ca-filing-2882795</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1425711</link>
-      <description>Fight for Prop. 13 PAC, Sponsored by California Business Roundtable filed form F460 on 7/22/2024 12:00:00 AM (filing 2925946).</description>
-      <guid isPermaLink="false">ca-filing-2925946</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1450483</link>
-      <description>GOVERN FOR CALIFORNIA ACTION COMMITTEE filed form F460 on 2/19/2024 12:00:00 AM (filing 2894661).</description>
-      <guid isPermaLink="false">ca-filing-2894661</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1424456</link>
-      <description>SILICON VALLEY JOBSPAC, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 7/31/2024 12:00:00 AM (filing 2932390).</description>
-      <guid isPermaLink="false">ca-filing-2932390</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 1/8/2024 12:00:00 AM (filing 2865259).</description>
-      <guid isPermaLink="false">ca-filing-2865259</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 5/24/2024 12:00:00 AM (filing 2916778).</description>
-      <guid isPermaLink="false">ca-filing-2916778</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 7/12/2024 12:00:00 AM (filing 2932713).</description>
-      <guid isPermaLink="false">ca-filing-2932713</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1383984</link>
-      <description>GOVERN FOR CALIFORNIA NETWORK COMMITTEE filed form F460 on 7/12/2024 12:00:00 AM (filing 2932714).</description>
-      <guid isPermaLink="false">ca-filing-2932714</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 2/20/2024 12:00:00 AM (filing 2892831).</description>
-      <guid isPermaLink="false">ca-filing-2892831</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 1/22/2024 12:00:00 AM (filing 2884705).</description>
-      <guid isPermaLink="false">ca-filing-2884705</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 2/8/2024 12:00:00 AM (filing 2889157).</description>
-      <guid isPermaLink="false">ca-filing-2889157</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1450483</link>
-      <description>GOVERN FOR CALIFORNIA ACTION COMMITTEE  filed form F497 on 2/9/2024 12:00:00 AM (filing 2889595).</description>
-      <guid isPermaLink="false">ca-filing-2889595</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F461</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=478632</link>
-      <description>California Chamber of Commerce filed form F461 on 7/31/2024 12:00:00 AM (filing 2929740).</description>
-      <guid isPermaLink="false">ca-filing-2929740</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1464796</link>
-      <description>GOVERN FOR CALIFORNIA'S COMMITTEE TO PROTECT THE GENERAL FUND filed form F460 on 7/22/2024 12:00:00 AM (filing 2933038).</description>
-      <guid isPermaLink="false">ca-filing-2933038</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 2/22/2024 12:00:00 AM (filing 2895074).</description>
-      <guid isPermaLink="false">ca-filing-2895074</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1464796</link>
-      <description>GOVERN FOR CALIFORNIA'S COMMITTEE TO PROTECT THE GENERAL FUND filed form F460 on 4/19/2024 12:00:00 AM (filing 2912536).</description>
-      <guid isPermaLink="false">ca-filing-2912536</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1425711</link>
-      <description>Fight for Prop. 13 PAC, Sponsored by California Business Roundtable filed form F460 on 1/1/2024 12:00:00 AM (filing 2867718).</description>
-      <guid isPermaLink="false">ca-filing-2867718</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 7/31/2024 12:00:00 AM (filing 2934969).</description>
-      <guid isPermaLink="false">ca-filing-2934969</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 1/31/2025 12:00:00 AM (filing 3000332).</description>
-      <guid isPermaLink="false">ca-filing-3000332</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/8/2024 12:00:00 AM (filing 2962547).</description>
-      <guid isPermaLink="false">ca-filing-2962547</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 10/14/2024 12:00:00 AM (filing 2965062).</description>
-      <guid isPermaLink="false">ca-filing-2965062</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/14/2024 12:00:00 AM (filing 2965364).</description>
-      <guid isPermaLink="false">ca-filing-2965364</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/14/2024 12:00:00 AM (filing 2965361).</description>
-      <guid isPermaLink="false">ca-filing-2965361</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/14/2024 12:00:00 AM (filing 2965362).</description>
-      <guid isPermaLink="false">ca-filing-2965362</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/18/2024 12:00:00 AM (filing 2953103).</description>
-      <guid isPermaLink="false">ca-filing-2953103</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 8/14/2024 12:00:00 AM (filing 2943652).</description>
-      <guid isPermaLink="false">ca-filing-2943652</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 8/16/2024 12:00:00 AM (filing 2944548).</description>
-      <guid isPermaLink="false">ca-filing-2944548</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 9/20/2024 12:00:00 AM (filing 2953952).</description>
-      <guid isPermaLink="false">ca-filing-2953952</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/27/2024 12:00:00 AM (filing 2957741).</description>
-      <guid isPermaLink="false">ca-filing-2957741</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 9/19/2024 12:00:00 AM (filing 2953440).</description>
-      <guid isPermaLink="false">ca-filing-2953440</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 9/24/2024 12:00:00 AM (filing 2954684).</description>
-      <guid isPermaLink="false">ca-filing-2954684</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 8/27/2024 12:00:00 AM (filing 2947076).</description>
-      <guid isPermaLink="false">ca-filing-2947076</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973457).</description>
-      <guid isPermaLink="false">ca-filing-2973457</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/3/2024 12:00:00 AM (filing 2960696).</description>
-      <guid isPermaLink="false">ca-filing-2960696</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 8/29/2024 12:00:00 AM (filing 2947651).</description>
-      <guid isPermaLink="false">ca-filing-2947651</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/18/2024 12:00:00 AM (filing 2967875).</description>
-      <guid isPermaLink="false">ca-filing-2967875</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/18/2024 12:00:00 AM (filing 2967877).</description>
-      <guid isPermaLink="false">ca-filing-2967877</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/18/2024 12:00:00 AM (filing 2967879).</description>
-      <guid isPermaLink="false">ca-filing-2967879</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/9/2024 12:00:00 AM (filing 2963499).</description>
-      <guid isPermaLink="false">ca-filing-2963499</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/9/2024 12:00:00 AM (filing 2963500).</description>
-      <guid isPermaLink="false">ca-filing-2963500</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/11/2024 12:00:00 AM (filing 2964455).</description>
-      <guid isPermaLink="false">ca-filing-2964455</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1425711</link>
-      <description>Fight for Prop. 13 PAC, Sponsored by California Business Roundtable filed form F460 on 1/6/2025 12:00:00 AM (filing 3001914).</description>
-      <guid isPermaLink="false">ca-filing-3001914</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/14/2024 12:00:00 AM (filing 2965366).</description>
-      <guid isPermaLink="false">ca-filing-2965366</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/5/2024 12:00:00 AM (filing 2961561).</description>
-      <guid isPermaLink="false">ca-filing-2961561</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/5/2024 12:00:00 AM (filing 2961562).</description>
-      <guid isPermaLink="false">ca-filing-2961562</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/7/2024 12:00:00 AM (filing 2961959).</description>
-      <guid isPermaLink="false">ca-filing-2961959</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 9/25/2024 12:00:00 AM (filing 2956157).</description>
-      <guid isPermaLink="false">ca-filing-2956157</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/7/2024 12:00:00 AM (filing 2961960).</description>
-      <guid isPermaLink="false">ca-filing-2961960</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/9/2024 12:00:00 AM (filing 2963501).</description>
-      <guid isPermaLink="false">ca-filing-2963501</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 8/20/2024 12:00:00 AM (filing 2945337).</description>
-      <guid isPermaLink="false">ca-filing-2945337</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/22/2024 12:00:00 AM (filing 2969849).</description>
-      <guid isPermaLink="false">ca-filing-2969849</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/29/2024 12:00:00 AM (filing 2975455).</description>
-      <guid isPermaLink="false">ca-filing-2975455</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 10/11/2024 12:00:00 AM (filing 2964475).</description>
-      <guid isPermaLink="false">ca-filing-2964475</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/10/2024 12:00:00 AM (filing 2950798).</description>
-      <guid isPermaLink="false">ca-filing-2950798</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 9/24/2024 12:00:00 AM (filing 2956910).</description>
-      <guid isPermaLink="false">ca-filing-2956910</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 9/26/2024 12:00:00 AM (filing 2955789).</description>
-      <guid isPermaLink="false">ca-filing-2955789</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/30/2024 12:00:00 AM (filing 2958302).</description>
-      <guid isPermaLink="false">ca-filing-2958302</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/26/2024 12:00:00 AM (filing 2956862).</description>
-      <guid isPermaLink="false">ca-filing-2956862</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/3/2024 12:00:00 AM (filing 2960524).</description>
-      <guid isPermaLink="false">ca-filing-2960524</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/18/2024 12:00:00 AM (filing 2967757).</description>
-      <guid isPermaLink="false">ca-filing-2967757</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/19/2024 12:00:00 AM (filing 2953407).</description>
-      <guid isPermaLink="false">ca-filing-2953407</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 1/18/2025 12:00:00 AM (filing 3007421).</description>
-      <guid isPermaLink="false">ca-filing-3007421</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/29/2024 12:00:00 AM (filing 2975760).</description>
-      <guid isPermaLink="false">ca-filing-2975760</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 1/31/2025 12:00:00 AM (filing 3007638).</description>
-      <guid isPermaLink="false">ca-filing-3007638</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1450483</link>
-      <description>GOVERN FOR CALIFORNIA ACTION COMMITTEE filed form F460 on 1/15/2025 12:00:00 AM (filing 3009572).</description>
-      <guid isPermaLink="false">ca-filing-3009572</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/21/2024 12:00:00 AM (filing 2968988).</description>
-      <guid isPermaLink="false">ca-filing-2968988</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/31/2024 12:00:00 AM (filing 2981534).</description>
-      <guid isPermaLink="false">ca-filing-2981534</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/31/2024 12:00:00 AM (filing 2981536).</description>
-      <guid isPermaLink="false">ca-filing-2981536</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 1/25/2025 12:00:00 AM (filing 2971407).</description>
-      <guid isPermaLink="false">ca-filing-2971407</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 1/25/2025 12:00:00 AM (filing 3009586).</description>
-      <guid isPermaLink="false">ca-filing-3009586</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/31/2024 12:00:00 AM (filing 2981537).</description>
-      <guid isPermaLink="false">ca-filing-2981537</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1424456</link>
-      <description>SILICON VALLEY JOBSPAC, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 1/31/2025 12:00:00 AM (filing 3009613).</description>
-      <guid isPermaLink="false">ca-filing-3009613</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/15/2024 12:00:00 AM (filing 2965965).</description>
-      <guid isPermaLink="false">ca-filing-2965965</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1383984</link>
-      <description>GOVERN FOR CALIFORNIA NETWORK COMMITTEE filed form F460 on 1/18/2025 12:00:00 AM (filing 3007422).</description>
-      <guid isPermaLink="false">ca-filing-3007422</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 10/24/2024 12:00:00 AM (filing 2971096).</description>
-      <guid isPermaLink="false">ca-filing-2971096</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 9/10/2024 12:00:00 AM (filing 2950701).</description>
-      <guid isPermaLink="false">ca-filing-2950701</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973143).</description>
-      <guid isPermaLink="false">ca-filing-2973143</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973144).</description>
-      <guid isPermaLink="false">ca-filing-2973144</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973145).</description>
-      <guid isPermaLink="false">ca-filing-2973145</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 10/16/2024 12:00:00 AM (filing 2966501).</description>
-      <guid isPermaLink="false">ca-filing-2966501</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/26/2024 12:00:00 AM (filing 2973746).</description>
-      <guid isPermaLink="false">ca-filing-2973746</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/22/2024 12:00:00 AM (filing 2969850).</description>
-      <guid isPermaLink="false">ca-filing-2969850</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 9/6/2024 12:00:00 AM (filing 2949444).</description>
-      <guid isPermaLink="false">ca-filing-2949444</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 10/21/2024 12:00:00 AM (filing 2971099).</description>
-      <guid isPermaLink="false">ca-filing-2971099</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/2/2024 12:00:00 AM (filing 2960125).</description>
-      <guid isPermaLink="false">ca-filing-2960125</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 10/16/2024 12:00:00 AM (filing 2966423).</description>
-      <guid isPermaLink="false">ca-filing-2966423</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/1/2024 12:00:00 AM (filing 2958748).</description>
-      <guid isPermaLink="false">ca-filing-2958748</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/15/2024 12:00:00 AM (filing 2966107).</description>
-      <guid isPermaLink="false">ca-filing-2966107</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
-      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 8/14/2024 12:00:00 AM (filing 2943696).</description>
-      <guid isPermaLink="false">ca-filing-2943696</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 9/26/2024 12:00:00 AM (filing 2957224).</description>
-      <guid isPermaLink="false">ca-filing-2957224</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/16/2024 12:00:00 AM (filing 2966915).</description>
-      <guid isPermaLink="false">ca-filing-2966915</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Govern for California filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
-      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F497 on 8/26/2024 12:00:00 AM (filing 2946662).</description>
-      <guid isPermaLink="false">ca-filing-2946662</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973134).</description>
-      <guid isPermaLink="false">ca-filing-2973134</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973135).</description>
-      <guid isPermaLink="false">ca-filing-2973135</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 9/16/2024 12:00:00 AM (filing 2952474).</description>
-      <guid isPermaLink="false">ca-filing-2952474</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 9/16/2024 12:00:00 AM (filing 2952475).</description>
-      <guid isPermaLink="false">ca-filing-2952475</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/16/2024 12:00:00 AM (filing 2966916).</description>
-      <guid isPermaLink="false">ca-filing-2966916</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/25/2024 12:00:00 AM (filing 2973137).</description>
-      <guid isPermaLink="false">ca-filing-2973137</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 9/9/2024 12:00:00 AM (filing 2950125).</description>
-      <guid isPermaLink="false">ca-filing-2950125</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/17/2024 12:00:00 AM (filing 2967375).</description>
-      <guid isPermaLink="false">ca-filing-2967375</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/17/2024 12:00:00 AM (filing 2967377).</description>
-      <guid isPermaLink="false">ca-filing-2967377</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/7/2024 12:00:00 AM (filing 2961598).</description>
-      <guid isPermaLink="false">ca-filing-2961598</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 01 Aug 2026 09:12:09 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Business Roundtable filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
@@ -2107,6 +1372,741 @@
       <description>Hastings, Reed gave $1500 to unknown recipient on 6/11/2026 12:00:00 AM (filing 3175629).</description>
       <guid isPermaLink="false">ca-rcpt-3175629-38</guid>
       <pubDate>Fri, 31 Jul 2026 09:50:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3178997).</description>
+      <guid isPermaLink="false">ca-rcpt-3178997-29</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2600 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2600 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3178997).</description>
+      <guid isPermaLink="false">ca-rcpt-3178997-30</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $521045 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>SCHMIDT, ERIC gave $521045 to unknown recipient on 6/16/2026 12:00:00 AM (filing 3181082).</description>
+      <guid isPermaLink="false">ca-rcpt-3181082-3</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1000 to unknown recipient on 5/22/2026 12:00:00 AM (filing 3179401).</description>
+      <guid isPermaLink="false">ca-rcpt-3179401-24</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/17/2026 12:00:00 AM (filing 3179443).</description>
+      <guid isPermaLink="false">ca-rcpt-3179443-14</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $4500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $4500 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3178962).</description>
+      <guid isPermaLink="false">ca-rcpt-3178962-37</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2900 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179586).</description>
+      <guid isPermaLink="false">ca-rcpt-3179586-23</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179586).</description>
+      <guid isPermaLink="false">ca-rcpt-3179586-24</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $600 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $600 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180278).</description>
+      <guid isPermaLink="false">ca-rcpt-3180278-39</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $900 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180278).</description>
+      <guid isPermaLink="false">ca-rcpt-3180278-40</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3179074).</description>
+      <guid isPermaLink="false">ca-rcpt-3179074-21</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180629).</description>
+      <guid isPermaLink="false">ca-rcpt-3180629-47</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $5000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $5000 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3175885).</description>
+      <guid isPermaLink="false">ca-rcpt-3175885-21</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1800 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1800 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3178815).</description>
+      <guid isPermaLink="false">ca-rcpt-3178815-20</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2700 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2700 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3178815).</description>
+      <guid isPermaLink="false">ca-rcpt-3178815-21</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/9/2026 12:00:00 AM (filing 3178815).</description>
+      <guid isPermaLink="false">ca-rcpt-3178815-41</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/9/2026 12:00:00 AM (filing 3178561).</description>
+      <guid isPermaLink="false">ca-rcpt-3178561-73</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/15/2026 12:00:00 AM (filing 3179149).</description>
+      <guid isPermaLink="false">ca-rcpt-3179149-26</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Ron Conway donated $5700 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Conway, Ronald gave $5700 to unknown recipient on 2/13/2026 12:00:00 AM (filing 3180898).</description>
+      <guid isPermaLink="false">ca-rcpt-3180898-36</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $50000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $50000 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-42</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $10000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $10000 to unknown recipient on 4/23/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-45</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/9/2026 12:00:00 AM (filing 3179876).</description>
+      <guid isPermaLink="false">ca-rcpt-3179876-5</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3179880).</description>
+      <guid isPermaLink="false">ca-rcpt-3179880-27</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1600 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1600 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3179880).</description>
+      <guid isPermaLink="false">ca-rcpt-3179880-28</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $39200 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $39200 to unknown recipient on 5/31/2026 12:00:00 AM (filing 3181365).</description>
+      <guid isPermaLink="false">ca-rcpt-3181365-4239</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $20000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $20000000 to unknown recipient on 1/12/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-1</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $2000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>SCHMIDT, ERIC gave $2000000 to unknown recipient on 1/12/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-2</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Patrick Collison donated $2000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>COLLISON, PATRICK gave $2000000 to unknown recipient on 1/13/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-3</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Tony Xu donated $2000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>XU, TONY gave $2000000 to unknown recipient on 1/27/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-7</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $2000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>LARSEN, CHRIS gave $2000000 to unknown recipient on 1/28/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-8</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Michael Moritz donated $2000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>MORITZ, MICHAEL gave $2000000 to unknown recipient on 1/28/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-9</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $25000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $25000000 to unknown recipient on 2/27/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-10</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Michael Moritz donated $5000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>MORITZ, MICHAEL gave $5000000 to unknown recipient on 2/27/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-11</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Patrick Collison donated $5000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>COLLISON, PATRICK gave $5000000 to unknown recipient on 3/12/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-13</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $1026176.51 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>SCHMIDT, ERIC gave $1026176.51 to unknown recipient on 3/12/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-14</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $3000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $3000000 to unknown recipient on 4/3/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-16</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $500000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>LARSEN, CHRIS gave $500000 to unknown recipient on 4/3/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-18</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Michael Moritz donated $500000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>MORITZ, MICHAEL gave $500000 to unknown recipient on 4/3/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-19</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $9000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $9000000 to unknown recipient on 4/10/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-21</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $9000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $9000000 to unknown recipient on 4/17/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-22</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $16000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $16000000 to unknown recipient on 5/15/2026 12:00:00 AM (filing 3181389).</description>
+      <guid isPermaLink="false">ca-rcpt-3181389-23</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $10000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>TAN, GARRY gave $10000 to unknown recipient on 5/20/2026 12:00:00 AM (filing 3180915).</description>
+      <guid isPermaLink="false">ca-rcpt-3180915-4</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 6/1/2026 12:00:00 AM (filing 3181023).</description>
+      <guid isPermaLink="false">ca-rcpt-3181023-25</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 6/1/2026 12:00:00 AM (filing 3181023).</description>
+      <guid isPermaLink="false">ca-rcpt-3181023-26</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $200000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Larsen, Christian gave $200000 to unknown recipient on 4/13/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-54</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $5500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $5500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3181602).</description>
+      <guid isPermaLink="false">ca-rcpt-3181602-28</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $4400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $4400 to unknown recipient on 5/22/2026 12:00:00 AM (filing 3181563).</description>
+      <guid isPermaLink="false">ca-rcpt-3181563-10</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/22/2026 12:00:00 AM (filing 3181563).</description>
+      <guid isPermaLink="false">ca-rcpt-3181563-11</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Sergey Brin donated $1000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>BRIN, SERGEY gave $1000000 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3180380).</description>
+      <guid isPermaLink="false">ca-rcpt-3180380-12</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180252).</description>
+      <guid isPermaLink="false">ca-rcpt-3180252-29</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1600 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1600 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180252).</description>
+      <guid isPermaLink="false">ca-rcpt-3180252-30</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2900 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3180055).</description>
+      <guid isPermaLink="false">ca-rcpt-3180055-18</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3180055).</description>
+      <guid isPermaLink="false">ca-rcpt-3180055-19</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1400 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1400 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180280).</description>
+      <guid isPermaLink="false">ca-rcpt-3180280-35</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $3100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $3100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180280).</description>
+      <guid isPermaLink="false">ca-rcpt-3180280-36</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Ron Conway donated $39200 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Conway, Ronald gave $39200 to unknown recipient on 6/26/2026 12:00:00 AM (filing 3181365).</description>
+      <guid isPermaLink="false">ca-rcpt-3181365-1922</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Ron Conway donated $39200 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Conway, Ronald gave $39200 to unknown recipient on 6/29/2026 12:00:00 AM (filing 3181365).</description>
+      <guid isPermaLink="false">ca-rcpt-3181365-1923</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $5900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $5900 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180620).</description>
+      <guid isPermaLink="false">ca-rcpt-3180620-39</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $3000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $3000 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179989).</description>
+      <guid isPermaLink="false">ca-rcpt-3179989-22</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179989).</description>
+      <guid isPermaLink="false">ca-rcpt-3179989-23</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $-100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $-100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179989).</description>
+      <guid isPermaLink="false">ca-rcpt-3179989-24</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180173).</description>
+      <guid isPermaLink="false">ca-rcpt-3180173-32</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180224).</description>
+      <guid isPermaLink="false">ca-rcpt-3180224-37</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2900 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3180323).</description>
+      <guid isPermaLink="false">ca-rcpt-3180323-44</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3180323).</description>
+      <guid isPermaLink="false">ca-rcpt-3180323-45</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $-1000000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>HASTINGS, REED gave $-1000000 to unknown recipient on 5/20/2026 12:00:00 AM (filing 3180417).</description>
+      <guid isPermaLink="false">ca-rcpt-3180417-1</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>HASTINGS, REED gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3176742).</description>
+      <guid isPermaLink="false">ca-rcpt-3176742-26</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3178662).</description>
+      <guid isPermaLink="false">ca-rcpt-3178662-10</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180608).</description>
+      <guid isPermaLink="false">ca-rcpt-3180608-41</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/9/2026 12:00:00 AM (filing 3178662).</description>
+      <guid isPermaLink="false">ca-rcpt-3178662-29</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179200).</description>
+      <guid isPermaLink="false">ca-rcpt-3179200-17</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Brian Singerman donated $9800 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Singerman, Brian gave $9800 to unknown recipient on 5/21/2026 12:00:00 AM (filing 3179529).</description>
+      <guid isPermaLink="false">ca-rcpt-3179529-37</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $9800 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $9800 to unknown recipient on 5/18/2026 12:00:00 AM (filing 3179529).</description>
+      <guid isPermaLink="false">ca-rcpt-3179529-39</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180874).</description>
+      <guid isPermaLink="false">ca-rcpt-3180874-20</guid>
+      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3179273).</description>
+      <guid isPermaLink="false">ca-rcpt-3179273-24</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180070).</description>
+      <guid isPermaLink="false">ca-rcpt-3180070-33</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $5900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $5900 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3181009).</description>
+      <guid isPermaLink="false">ca-rcpt-3181009-25</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3176176).</description>
+      <guid isPermaLink="false">ca-rcpt-3176176-7</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $3000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $3000 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3181126).</description>
+      <guid isPermaLink="false">ca-rcpt-3181126-7</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $3000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $3000 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3176432).</description>
+      <guid isPermaLink="false">ca-rcpt-3176432-26</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3178359).</description>
+      <guid isPermaLink="false">ca-rcpt-3178359-20</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $5900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $5900 to unknown recipient on 5/20/2026 12:00:00 AM (filing 3180299).</description>
+      <guid isPermaLink="false">ca-rcpt-3180299-23</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/11/2026 12:00:00 AM (filing 3181314).</description>
+      <guid isPermaLink="false">ca-rcpt-3181314-13</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $12500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Larsen, Christopher gave $12500 to unknown recipient on 4/1/2026 12:00:00 AM (filing 3179699).</description>
+      <guid isPermaLink="false">ca-rcpt-3179699-4</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180364).</description>
+      <guid isPermaLink="false">ca-rcpt-3180364-18</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179482).</description>
+      <guid isPermaLink="false">ca-rcpt-3179482-46</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180861).</description>
+      <guid isPermaLink="false">ca-rcpt-3180861-127</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3179426).</description>
+      <guid isPermaLink="false">ca-rcpt-3179426-54</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $300 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $300 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179061).</description>
+      <guid isPermaLink="false">ca-rcpt-3179061-35</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 6/11/2026 12:00:00 AM (filing 3179061).</description>
+      <guid isPermaLink="false">ca-rcpt-3179061-36</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $2900 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $2900 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3181087).</description>
+      <guid isPermaLink="false">ca-rcpt-3181087-17</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3181087).</description>
+      <guid isPermaLink="false">ca-rcpt-3181087-18</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $241600 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>HASTINGS, REED gave $241600 to unknown recipient on 4/27/2026 12:00:00 AM (filing 3181207).</description>
+      <guid isPermaLink="false">ca-rcpt-3181207-6</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Brian Singerman donated $500000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>SINGERMAN, BRIAN gave $500000 to unknown recipient on 4/9/2026 12:00:00 AM (filing 3181253).</description>
+      <guid isPermaLink="false">ca-rcpt-3181253-12</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180371).</description>
+      <guid isPermaLink="false">ca-rcpt-3180371-75</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F461</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=478632</link>
+      <description>California Chamber of Commerce filed form F461 on 7/22/2026 12:00:00 AM (filing 3176029).</description>
+      <guid isPermaLink="false">ca-filing-3176029</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
+      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 7/31/2026 12:00:00 AM (filing 3181082).</description>
+      <guid isPermaLink="false">ca-filing-3181082</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Govern for California filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1450483</link>
+      <description>GOVERN FOR CALIFORNIA ACTION COMMITTEE filed form F460 on 7/22/2026 12:00:00 AM (filing 3180035).</description>
+      <guid isPermaLink="false">ca-filing-3180035</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 7/31/2026 12:00:00 AM (filing 3180380).</description>
+      <guid isPermaLink="false">ca-filing-3180380</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
+      <description>CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F460 on 7/31/2026 12:00:00 AM (filing 3181086).</description>
+      <guid isPermaLink="false">ca-filing-3181086</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Govern for California filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1392639</link>
+      <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 7/22/2026 12:00:00 AM (filing 3180031).</description>
+      <guid isPermaLink="false">ca-filing-3180031</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
+      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F460 on 7/30/2026 12:00:00 AM (filing 3177188).</description>
+      <guid isPermaLink="false">ca-filing-3177188</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Back to Basics filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425</link>
+      <description>CALIFORNIA BACK TO BASICS SUPPORTING MATT MAHAN FOR GOVERNOR 2026 filed form F460 on 7/31/2026 12:00:00 AM (filing 3180417).</description>
+      <guid isPermaLink="false">ca-filing-3180417</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Govern for California filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1383984</link>
+      <description>GOVERN FOR CALIFORNIA NETWORK COMMITTEE filed form F460 on 7/31/2026 12:00:00 AM (filing 3181253).</description>
+      <guid isPermaLink="false">ca-filing-3181253</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Golden State Promise filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486695</link>
+      <description>GOLDEN STATE PROMISE - NO ON PROP 40 filed form F460 on 7/31/2026 12:00:00 AM (filing 3179456).</description>
+      <guid isPermaLink="false">ca-filing-3179456</guid>
+      <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
