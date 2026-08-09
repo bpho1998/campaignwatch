@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 07:15:42 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
-      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F460 on 10/24/2024 12:00:00 AM (filing 2972391).</description>
-      <guid isPermaLink="false">ca-filing-2972391</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sun, 09 Aug 2026 07:59:50 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F496</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2100,13 @@
       <description>GOLDEN STATE PROMISE - NO ON PROP 40 filed form F460 on 7/31/2026 12:00:00 AM (filing 3179456).</description>
       <guid isPermaLink="false">ca-filing-3179456</guid>
       <pubDate>Sat, 01 Aug 2026 09:12:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352</link>
+      <description>California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 8/6/2026 12:00:00 AM (filing 3184060).</description>
+      <guid isPermaLink="false">ca-filing-3184060</guid>
+      <pubDate>Sun, 09 Aug 2026 07:59:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
