@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 10:42:05 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/29/2024 12:00:00 AM (filing 2976067).</description>
-      <guid isPermaLink="false">ca-filing-2976067</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/29/2024 12:00:00 AM (filing 2976069).</description>
-      <guid isPermaLink="false">ca-filing-2976069</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 12:04:25 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F496</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2093,20 @@
       <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 8/31/2026 12:00:00 AM (filing 3190978).</description>
       <guid isPermaLink="false">ca-filing-3190978</guid>
       <pubDate>Tue, 01 Sep 2026 12:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1494372</link>
+      <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 9/1/2026 12:00:00 AM (filing 3191425).</description>
+      <guid isPermaLink="false">ca-filing-3191425</guid>
+      <pubDate>Wed, 02 Sep 2026 12:04:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1494372</link>
+      <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 9/1/2026 12:00:00 AM (filing 3191472).</description>
+      <guid isPermaLink="false">ca-filing-3191472</guid>
+      <pubDate>Wed, 02 Sep 2026 12:04:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
