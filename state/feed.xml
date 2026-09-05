@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Sep 2026 08:49:39 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1484853</link>
-      <description>COMMITTEE TO BUILD AN AFFORDABLE CALIFORNIA, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F497 on 3/17/2026 12:00:00 AM (filing 3126939).</description>
-      <guid isPermaLink="false">ca-filing-3126939</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 11:15:11 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Back to Basics filed F497</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425</link>
@@ -2107,6 +2100,13 @@
       <description>Hastings, Reed gave $1500 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3180608).</description>
       <guid isPermaLink="false">ca-rcpt-3180608-43</guid>
       <pubDate>Thu, 03 Sep 2026 12:02:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1494372</link>
+      <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 9/4/2026 12:00:00 AM (filing 3192330).</description>
+      <guid isPermaLink="false">ca-filing-3192330</guid>
+      <pubDate>Sat, 05 Sep 2026 11:15:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
