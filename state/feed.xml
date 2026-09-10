@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 11:40:00 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Back to Basics filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425</link>
-      <description>CALIFORNIA BACK TO BASICS SUPPORTING MATT MAHAN FOR GOVERNOR 2026  filed form F497 on 3/17/2026 12:00:00 AM (filing 3127090).</description>
-      <guid isPermaLink="false">ca-filing-3127090</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
-      <description>CALIFORNIANS AGAINST HIGHER TAXES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 2/13/2026 12:00:00 AM (filing 3121029).</description>
-      <guid isPermaLink="false">ca-filing-3121029</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1484853</link>
-      <description>COMMITTEE TO BUILD AN AFFORDABLE CALIFORNIA, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F497 on 1/28/2026 12:00:00 AM (filing 3107698).</description>
-      <guid isPermaLink="false">ca-filing-3107698</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 10 Sep 2026 12:08:20 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F460</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2086,27 @@
       <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 9/4/2026 12:00:00 AM (filing 3192330).</description>
       <guid isPermaLink="false">ca-filing-3192330</guid>
       <pubDate>Sat, 05 Sep 2026 11:15:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $200000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Larsen, Christian gave $200000 to unknown recipient on 4/13/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-36</guid>
+      <pubDate>Thu, 10 Sep 2026 12:08:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $10000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $10000 to unknown recipient on 4/23/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-74</guid>
+      <pubDate>Thu, 10 Sep 2026 12:08:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Garry Tan donated $50000 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Tan, Garry gave $50000 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3175786).</description>
+      <guid isPermaLink="false">ca-rcpt-3175786-75</guid>
+      <pubDate>Thu, 10 Sep 2026 12:08:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
