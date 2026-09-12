@@ -7,21 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Sep 2026 10:54:40 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F460</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F460 on 8/26/2025 12:00:00 AM (filing 3067867).</description>
-      <guid isPermaLink="false">ca-filing-3067867</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Business Roundtable filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
-      <description>CALIFORNIANS AGAINST HIGHER TAXES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 1/9/2026 12:00:00 AM (filing 3099572).</description>
-      <guid isPermaLink="false">ca-filing-3099572</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Sep 2026 11:34:55 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Business Roundtable filed F497</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
@@ -2107,6 +2093,20 @@
       <description>Tan, Garry gave $50000 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3175786).</description>
       <guid isPermaLink="false">ca-rcpt-3175786-75</guid>
       <pubDate>Thu, 10 Sep 2026 12:08:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $9100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Larsen, Chris gave $9100 to unknown recipient on 10/5/2024 12:00:00 AM (filing 3013041).</description>
+      <guid isPermaLink="false">ca-rcpt-3013041-356</guid>
+      <pubDate>Sat, 12 Sep 2026 11:34:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Chris (Christian) Larsen donated $9100 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Larsen, Chris gave $9100 to unknown recipient on 10/5/2024 12:00:00 AM (filing 3013041).</description>
+      <guid isPermaLink="false">ca-rcpt-3013041-357</guid>
+      <pubDate>Sat, 12 Sep 2026 11:34:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
