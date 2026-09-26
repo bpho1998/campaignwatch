@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Sep 2026 07:30:53 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 5/26/2026 12:00:00 AM (filing 3158554).</description>
-      <guid isPermaLink="false">ca-filing-3158554</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Back to Basics filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425</link>
-      <description>CALIFORNIA BACK TO BASICS SUPPORTING MATT MAHAN FOR GOVERNOR 2026  filed form F497 on 4/16/2026 12:00:00 AM (filing 3134516).</description>
-      <guid isPermaLink="false">ca-filing-3134516</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Back to Basics filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1487425</link>
-      <description>CALIFORNIA BACK TO BASICS SUPPORTING MATT MAHAN FOR GOVERNOR 2026  filed form F497 on 4/20/2026 12:00:00 AM (filing 3135605).</description>
-      <guid isPermaLink="false">ca-filing-3135605</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 26 Sep 2026 12:08:44 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F496</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2086,27 @@
       <description>GOVERN FOR CALIFORNIA COURAGE COMMITTEE filed form F460 on 9/21/2026 12:00:00 AM (filing 3198702).</description>
       <guid isPermaLink="false">ca-filing-3198702</guid>
       <pubDate>Fri, 25 Sep 2026 12:39:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $260.25 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Schmidt, Frederick gave $260.25 to unknown recipient on 9/2/2026 12:00:00 AM (filing 3200253).</description>
+      <guid isPermaLink="false">ca-rcpt-3200253-41985</guid>
+      <pubDate>Sat, 26 Sep 2026 12:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: Eric Schmidt donated $200 to unknown recipient</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
+      <description>Schmidt, Frederick gave $200 to unknown recipient on 9/11/2026 12:00:00 AM (filing 3200253).</description>
+      <guid isPermaLink="false">ca-rcpt-3200253-41986</guid>
+      <pubDate>Sat, 26 Sep 2026 12:08:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 9/25/2026 12:00:00 AM (filing 3200956).</description>
+      <guid isPermaLink="false">ca-filing-3200956</guid>
+      <pubDate>Sat, 26 Sep 2026 12:08:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
