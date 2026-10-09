@@ -7,28 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 07:18:45 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: Golden State Promise filed F497</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1486695</link>
-      <description>GOLDEN STATE PROMISE filed form F497 on 7/2/2026 12:00:00 AM (filing 3165525).</description>
-      <guid isPermaLink="false">ca-filing-3165525</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 5/19/2026 12:00:00 AM (filing 3154308).</description>
-      <guid isPermaLink="false">ca-filing-3154308</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: California Chamber of Commerce filed F496</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
-      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 5/13/2026 12:00:00 AM (filing 3152440).</description>
-      <guid isPermaLink="false">ca-filing-3152440</guid>
-      <pubDate>Sat, 18 Jul 2026 20:21:57 +0000</pubDate>
-    </item>
+    <lastBuildDate>Fri, 09 Oct 2026 14:14:55 +0000</lastBuildDate>
     <item>
       <title>CalAccess: California Chamber of Commerce filed F496</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
@@ -2107,6 +2086,27 @@
       <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F496 on 10/7/2026 12:00:00 AM (filing 3207681).</description>
       <guid isPermaLink="false">ca-filing-3207681</guid>
       <pubDate>Thu, 08 Oct 2026 14:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
+      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/8/2026 12:00:00 AM (filing 3207951).</description>
+      <guid isPermaLink="false">ca-filing-3207951</guid>
+      <pubDate>Fri, 09 Oct 2026 14:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/8/2026 12:00:00 AM (filing 3207923).</description>
+      <guid isPermaLink="false">ca-filing-3207923</guid>
+      <pubDate>Fri, 09 Oct 2026 14:14:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
+      <description>CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F497 on 10/8/2026 12:00:00 AM (filing 3208216).</description>
+      <guid isPermaLink="false">ca-filing-3208216</guid>
+      <pubDate>Fri, 09 Oct 2026 14:14:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
