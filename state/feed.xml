@@ -7,84 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:07:59 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: Eric Schmidt donated $521045 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>SCHMIDT, ERIC gave $521045 to unknown recipient on 6/16/2026 12:00:00 AM (filing 3181082).</description>
-      <guid isPermaLink="false">ca-rcpt-3181082-3</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $1000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $1000 to unknown recipient on 5/22/2026 12:00:00 AM (filing 3179401).</description>
-      <guid isPermaLink="false">ca-rcpt-3179401-24</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $1500 to unknown recipient on 6/17/2026 12:00:00 AM (filing 3179443).</description>
-      <guid isPermaLink="false">ca-rcpt-3179443-14</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $4500 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $4500 to unknown recipient on 5/29/2026 12:00:00 AM (filing 3178962).</description>
-      <guid isPermaLink="false">ca-rcpt-3178962-37</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $2900 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $2900 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179586).</description>
-      <guid isPermaLink="false">ca-rcpt-3179586-23</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $1100 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $1100 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3179586).</description>
-      <guid isPermaLink="false">ca-rcpt-3179586-24</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $600 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $600 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180278).</description>
-      <guid isPermaLink="false">ca-rcpt-3180278-39</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $900 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $900 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180278).</description>
-      <guid isPermaLink="false">ca-rcpt-3180278-40</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $1500 to unknown recipient on 5/28/2026 12:00:00 AM (filing 3179074).</description>
-      <guid isPermaLink="false">ca-rcpt-3179074-21</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $1500 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $1500 to unknown recipient on 5/27/2026 12:00:00 AM (filing 3180629).</description>
-      <guid isPermaLink="false">ca-rcpt-3180629-47</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Reed Hastings donated $5000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $5000 to unknown recipient on 5/26/2026 12:00:00 AM (filing 3175885).</description>
-      <guid isPermaLink="false">ca-rcpt-3175885-21</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
-    </item>
+    <lastBuildDate>Sat, 24 Oct 2026 11:57:34 +0000</lastBuildDate>
     <item>
       <title>CalAccess: Reed Hastings donated $1800 to unknown recipient</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
@@ -2107,6 +2030,83 @@
       <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F460 on 10/22/2026 12:00:00 AM (filing 3215832).</description>
       <guid isPermaLink="false">ca-filing-3215832</guid>
       <pubDate>Fri, 23 Oct 2026 12:32:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/23/2026 12:00:00 AM (filing 3216661).</description>
+      <guid isPermaLink="false">ca-filing-3216661</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/23/2026 12:00:00 AM (filing 3216663).</description>
+      <guid isPermaLink="false">ca-filing-3216663</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/23/2026 12:00:00 AM (filing 3216665).</description>
+      <guid isPermaLink="false">ca-filing-3216665</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1497253</link>
+      <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F496 on 10/23/2026 12:00:00 AM (filing 3216811).</description>
+      <guid isPermaLink="false">ca-filing-3216811</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/23/2026 12:00:00 AM (filing 3216792).</description>
+      <guid isPermaLink="false">ca-filing-3216792</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F496 on 10/23/2026 12:00:00 AM (filing 3216666).</description>
+      <guid isPermaLink="false">ca-filing-3216666</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
+      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/23/2026 12:00:00 AM (filing 3216884).</description>
+      <guid isPermaLink="false">ca-filing-3216884</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1497253</link>
+      <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F497 on 10/23/2026 12:00:00 AM (filing 3216459).</description>
+      <guid isPermaLink="false">ca-filing-3216459</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
+      <description>CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F497 on 10/23/2026 12:00:00 AM (filing 3216905).</description>
+      <guid isPermaLink="false">ca-filing-3216905</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=911819</link>
+      <description>JOBSPAC, A BI-PARTISAN COALITION OF CALIFORNIA EMPLOYERS, SPONSORED BY THE CALIFORNIA CHAMBER OF COMMERCE filed form F497 on 10/23/2026 12:00:00 AM (filing 3216501).</description>
+      <guid isPermaLink="false">ca-filing-3216501</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1497253</link>
+      <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F496 on 10/23/2026 12:00:00 AM (filing 3216829).</description>
+      <guid isPermaLink="false">ca-filing-3216829</guid>
+      <pubDate>Sat, 24 Oct 2026 11:57:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
