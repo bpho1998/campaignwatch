@@ -7,35 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:23:35 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: Reed Hastings donated $39200 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>Hastings, Reed gave $39200 to unknown recipient on 5/31/2026 12:00:00 AM (filing 3181365).</description>
-      <guid isPermaLink="false">ca-rcpt-3181365-4239</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Sergey Brin donated $20000000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>BRIN, SERGEY gave $20000000 to unknown recipient on 1/12/2026 12:00:00 AM (filing 3181389).</description>
-      <guid isPermaLink="false">ca-rcpt-3181389-1</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Eric Schmidt donated $2000000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>SCHMIDT, ERIC gave $2000000 to unknown recipient on 1/12/2026 12:00:00 AM (filing 3181389).</description>
-      <guid isPermaLink="false">ca-rcpt-3181389-2</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>CalAccess: Patrick Collison donated $2000000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>COLLISON, PATRICK gave $2000000 to unknown recipient on 1/13/2026 12:00:00 AM (filing 3181389).</description>
-      <guid isPermaLink="false">ca-rcpt-3181389-3</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Oct 2026 14:03:08 +0000</lastBuildDate>
     <item>
       <title>CalAccess: Tony Xu donated $2000000 to unknown recipient</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
@@ -2107,6 +2079,34 @@
       <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F496 on 10/27/2026 12:00:00 AM (filing 3218775).</description>
       <guid isPermaLink="false">ca-filing-3218775</guid>
       <pubDate>Wed, 28 Oct 2026 13:53:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1264590</link>
+      <description>CALIFORNIA BUSINESS ROUNDTABLE ISSUES PAC filed form F497 on 10/28/2026 12:00:00 AM (filing 3220038).</description>
+      <guid isPermaLink="false">ca-filing-3220038</guid>
+      <pubDate>Thu, 29 Oct 2026 14:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1494372</link>
+      <description>CALIFORNIANS FOR AFFORDABLE INSURANCE, SUPPORTING BEN ALLEN FOR INSURANCE COMMISSIONER 2026, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE filed form F497 on 10/28/2026 12:00:00 AM (filing 3220067).</description>
+      <guid isPermaLink="false">ca-filing-3220067</guid>
+      <pubDate>Thu, 29 Oct 2026 14:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F497</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
+      <description>CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F497 on 10/28/2026 12:00:00 AM (filing 3220234).</description>
+      <guid isPermaLink="false">ca-filing-3220234</guid>
+      <pubDate>Thu, 29 Oct 2026 14:03:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Chamber of Commerce filed F496</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1497253</link>
+      <description>Responsible Business Leaders Opposed to John Erickson for Senate 2026, sponsored by California Chamber of Commerce filed form F496 on 10/28/2026 12:00:00 AM (filing 3220228).</description>
+      <guid isPermaLink="false">ca-filing-3220228</guid>
+      <pubDate>Thu, 29 Oct 2026 14:03:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
