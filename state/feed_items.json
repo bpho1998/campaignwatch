@@ -1,5 +1,12 @@
 [
   {
+    "id": "ca-filing-3228334",
+    "title": "CalAccess: California Chamber of Commerce filed F497",
+    "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=950352",
+    "description": "California Chamber of Commerce PAC AKA ChamberPAC filed form F497 on 11/2/2026 12:00:00 AM (filing 3228334).",
+    "published": "2026-11-03T14:56:18.155571+00:00"
+  },
+  {
     "id": "ca-filing-3225404",
     "title": "CalAccess: California Business Roundtable filed F496",
     "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1494372",
@@ -2091,12 +2098,5 @@
     "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=",
     "description": "LARSEN, CHRIS gave $500000 to unknown recipient on 4/3/2026 12:00:00 AM (filing 3181389).",
     "published": "2026-08-01T09:11:59.007791+00:00"
-  },
-  {
-    "id": "ca-rcpt-3181389-16",
-    "title": "CalAccess: Sergey Brin donated $3000000 to unknown recipient",
-    "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=",
-    "description": "BRIN, SERGEY gave $3000000 to unknown recipient on 4/3/2026 12:00:00 AM (filing 3181389).",
-    "published": "2026-08-01T09:11:59.007765+00:00"
   }
 ]
