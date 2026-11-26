@@ -7,14 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:33:26 +0000</lastBuildDate>
-    <item>
-      <title>CalAccess: Sergey Brin donated $9000000 to unknown recipient</title>
-      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
-      <description>BRIN, SERGEY gave $9000000 to unknown recipient on 4/17/2026 12:00:00 AM (filing 3181389).</description>
-      <guid isPermaLink="false">ca-rcpt-3181389-22</guid>
-      <pubDate>Sat, 01 Aug 2026 09:11:59 +0000</pubDate>
-    </item>
+    <lastBuildDate>Thu, 26 Nov 2026 17:36:47 +0000</lastBuildDate>
     <item>
       <title>CalAccess: Sergey Brin donated $16000000 to unknown recipient</title>
       <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=</link>
@@ -2107,6 +2100,13 @@
       <description>Responsible Business Leaders Opposed to Amy Slavensky for Assembly 2026, sponsored by California Chamber of Commerce filed form F460 on 11/5/2026 12:00:00 AM (filing 3231200).</description>
       <guid isPermaLink="false">ca-filing-3231200</guid>
       <pubDate>Fri, 06 Nov 2026 14:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CalAccess: California Business Roundtable filed F460</title>
+      <link>https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228</link>
+      <description>CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F460 on 11/23/2026 12:00:00 AM (filing 3233143).</description>
+      <guid isPermaLink="false">ca-filing-3233143</guid>
+      <pubDate>Thu, 26 Nov 2026 17:36:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

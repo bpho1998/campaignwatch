@@ -1,5 +1,12 @@
 [
   {
+    "id": "ca-filing-3233143",
+    "title": "CalAccess: California Business Roundtable filed F460",
+    "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1485228",
+    "description": "CALIFORNIANS AGAINST TAX INCREASES, SPONSORED BY THE CALIFORNIA BUSINESS ROUNDTABLE - NO ON 40 filed form F460 on 11/23/2026 12:00:00 AM (filing 3233143).",
+    "published": "2026-11-26T17:36:47.056435+00:00"
+  },
+  {
     "id": "ca-filing-3231200",
     "title": "CalAccess: California Chamber of Commerce filed F460",
     "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=1497949",
@@ -2091,12 +2098,5 @@
     "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=",
     "description": "BRIN, SERGEY gave $16000000 to unknown recipient on 5/15/2026 12:00:00 AM (filing 3181389).",
     "published": "2026-08-01T09:11:59.007854+00:00"
-  },
-  {
-    "id": "ca-rcpt-3181389-22",
-    "title": "CalAccess: Sergey Brin donated $9000000 to unknown recipient",
-    "link": "https://cal-access.sos.ca.gov/Campaign/Committees/Detail.aspx?id=",
-    "description": "BRIN, SERGEY gave $9000000 to unknown recipient on 4/17/2026 12:00:00 AM (filing 3181389).",
-    "published": "2026-08-01T09:11:59.007845+00:00"
   }
 ]
